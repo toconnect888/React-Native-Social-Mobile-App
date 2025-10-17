@@ -21,19 +21,19 @@ Follow these steps to launch the project locally:
 
 1. Clone the Repository
    
-git clone https://github.com/yourusername/TOConnect.git
+   git clone https://github.com/yourusername/TOConnect.git
 
 3. Install Dependencies
    
-npm install
+   npm install
 
 5. Run the Development Server
    
-npm expo run
+   npm expo run
 
 7. Open the App
 
-On Android, use the Expo Go app or an Android emulator.
+   On Android, use the Expo Go app or an Android emulator.
 
-On iOS, use Expo Go or run it directly in Xcode Simulator.
+   On iOS, use Expo Go or run it directly in Xcode Simulator.
 
