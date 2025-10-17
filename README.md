@@ -20,15 +20,18 @@ Backend : Supabase - used for API handling and PostgreSQL data storage
 Follow these steps to launch the project locally:
 
 1. Clone the Repository
+   
 git clone https://github.com/yourusername/TOConnect.git
 
-2. Install Dependencies
+3. Install Dependencies
+   
 npm install
 
-3. Run the Development Server
+5. Run the Development Server
+   
 npm expo run
 
-4. Open the App
+7. Open the App
 
 On Android, use the Expo Go app or an Android emulator.
 
