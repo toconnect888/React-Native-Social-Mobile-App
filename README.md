@@ -1,5 +1,5 @@
 # TOconnect - React Native Mobile App
-This is compatible with both ios and android
+This App is compatible with both ios and android
 
 TOConnect (Toronto Connect) is a social web app designed to help Toronto immigrants connect with others, find buddies for local activities, and build a new social circle in the city.
 Many newcomers to Toronto find it challenging to meet new people and engage in social activities. TOConnect aims to make this easier by providing a platform where users can:
